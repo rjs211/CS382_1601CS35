@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class pattern_ta5{
+public class Assignment_2_1_1601CS35{
     public static void main (String args[]){
         int n,gaps,q;
         System.out.print("Enter The Number of Lines for Pascal Triangle:  ");

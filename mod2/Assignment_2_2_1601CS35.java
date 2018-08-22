@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.*;
 
-public class pattern_ta1{
+public class Assignment_2_2_1601CS35{
     public static void main(String args[]){
         int n;
         Scanner s = new Scanner(System.in);

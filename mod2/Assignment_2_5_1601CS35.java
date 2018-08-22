@@ -2,7 +2,7 @@ import java.lang.Math;
 import java.util.Scanner;
 
 
-public class pattern_ta4{
+public class Assignment_2_5_1601CS35{
      public static void main(String args[]){
          int n,p,q;
          Scanner s = new Scanner(System.in);

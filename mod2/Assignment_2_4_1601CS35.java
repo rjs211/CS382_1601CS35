@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class pattern_ta3{
+public class Assignment_2_4_1601CS35{
     public static void main(String args []){
         int n;
         System.out.print("Ennter number of Rows:  ");

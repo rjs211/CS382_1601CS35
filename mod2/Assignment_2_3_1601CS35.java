@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 
-public class pattern_ta2{
+public class Assignment_2_3_1601CS35{
     public static void main(String args[]){
     int n;
     Scanner s = new Scanner(System.in);
